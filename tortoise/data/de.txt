@@ -1,0 +1,13 @@
+
+Databricks Secures $10 Billion Funding.Databricks, a leader in data analytics and AI, has raised $10 billion in a significant venture capital deal, bringing its valuation to $62 billion. Major investors, including Thrive Capital, Andreessen Horowitz, and Insight Partners, participated in this funding round. The substantial capital influx will aid Databricks in competing for AI talent with rivals like OpenAI and Anthropic. Read more on FT.com.
+
+
+Interpublic Group Acquires Intelligence Node. Interpublic Group (IPG) has acquired Mumbai-based retail analytics firm Intelligence Node in a deal valued at nearly $100 million. This acquisition aims to enhance IPG's data capabilities, crucial for competing in digital commerce. Intelligence Node offers near real-time data on pricing, promotions, and availability, allowing brands to make strategic decisions based on competitor activity. Full details on WSJ.com.
+
+SAP Partners with Databricks for Cloud Analytics. SAP has partnered with Databricks to unify business analytics in the cloud. This collaboration leverages Databricks' platform to enhance SAP's analytics and AI solutions, providing customers with more robust data processing and analysis capabilities. Learn more on CIODive.
+
+Reimagining Marketing Intelligence with Real-Time Insights.Collaboration between marketing and data engineering teams is key to maximizing real-time insights and driving future strategies. Investing in dynamic resource allocation and high-volume data handling tools is crucial for businesses aiming to enhance their marketing intelligence capabilities. Full article on IBTimes.sg.
+
+Rahul Prathikantam: Visionary in Data Engineering. Rahul Prathikantam, a visionary Global AI and Data Leader, has been instrumental in transforming data engineering. His work focuses on leveraging cutting-edge technologies to optimize enterprise platforms, enhance business decision-making, and pioneer AI-driven solutions across industries. Explore his work on TechBullion.
+
+Stay updated on the latest data engineering and analytics developments. Subscribe to get weekly news delivered straight to your inbox! Subscribe Now !
